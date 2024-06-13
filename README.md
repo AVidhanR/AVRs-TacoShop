@@ -5,3 +5,4 @@
 ----
 - Visit the website [`here`](https://avidhanr.github.io/TacoShop/)
 - Project by [`AVidhanR`](https://linktr.ee/itsvidhanreddy)
+<!-- ![TacoShop](https://github.com/AVidhanR/TacoShop/assets/116101537/c63efdfa-40ea-4df3-a51a-807a72d9b4d3) -->
